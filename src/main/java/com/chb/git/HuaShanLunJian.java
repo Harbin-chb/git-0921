@@ -10,5 +10,6 @@ public class HuaShanLunJian {
         System.out.println("华山论剑");
         System.out.println("华山论剑");
         System.out.println("剑宗");
+        System.out.println("气宗");
     }
 }
